@@ -1,6 +1,6 @@
 #!/bin/bash
 
-PERSON1=$1  #no space between value and =
+PERSON1=$1  #passing arguments from command prompt
 PERSON2=$2
 
 echo "$PERSON1: Hello $PERSON2, how are you?"

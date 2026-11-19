@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# providing the details on command prompt with security
+
 echo "please enter your username"
 
 read USER_NAME
