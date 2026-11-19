@@ -4,3 +4,4 @@
 echo "Hello world"
 
 echo "latest lines"
+echo "latest lines2"
