@@ -11,3 +11,6 @@ fi
 echo "Installing software"
 dnf install nginx -y
 
+if [ $? -eq 0 ]; then
+   echo "nginx installed successfully"
+fi
