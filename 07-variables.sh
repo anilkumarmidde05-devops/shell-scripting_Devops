@@ -12,3 +12,4 @@ echo "PID of the script: $$"
 sleep 100 &
 echo "background process ID: $!"
 echo "all variables passed to script: $*"
+echo "previous status cde: $?"
