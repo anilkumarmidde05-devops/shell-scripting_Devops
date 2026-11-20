@@ -11,4 +11,4 @@ echo "The sum is: $SUM"
 
 FRUITS=("APPLE" "MANGO" "BANANA")
 
-echo "fruits are :${FRUITS[@]}"
+echo "fruits are :${FRUITS[0]}"
