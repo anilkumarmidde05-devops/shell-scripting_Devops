@@ -18,7 +18,7 @@ fi
 }
 
 
-dnf install nginxxx -y
+dnf install nginx -y
 VALIDATE $? "Nginx installing"
 
 dnf install mysql -y
